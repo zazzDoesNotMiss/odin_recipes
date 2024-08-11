@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Potti Sreeramulu', 'Free Mono', monospace;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(315deg, rgba(255, 255, 255, 1), rgba(200, 10, 10, 0.4));
+}
